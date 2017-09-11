@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Vaakatasotesti</string>
+    <string name="hello_world">Hyvää huomenta Suomi!</string>
+    <string name="hello_world_land">Hyvää huomenta vaakatasoinen Suomi!</string>
+
+</resources>
